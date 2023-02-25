@@ -1,2 +1,2 @@
 # css
- this fro learning csss
+ this for learning csss
